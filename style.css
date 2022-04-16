@@ -130,7 +130,7 @@ a:hover {
 .d-bloc h2 a,
 .d-bloc h3 a,
 .d-bloc h4 a,
-.d-bloc h5 a,
+.d-bloc  a,
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
@@ -288,11 +288,9 @@ a:hover {
 }
 
 .row span {
-    font-size: 36px;
+    font-size: 35px;
     color: #000000;
-    /*text-align: center;*/
     display: block;
-    
 }
 
 .navbar {
