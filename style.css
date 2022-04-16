@@ -287,6 +287,14 @@ a:hover {
     font-size: 11px;
 }
 
+.row span {
+    font-size: 36px;
+    color: #000000;
+    /*text-align: center;*/
+    display: block;
+    
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
