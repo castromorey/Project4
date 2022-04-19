@@ -297,11 +297,11 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
 }
-
+/*
 .keywords{
     text-align: center;
     margin-bottom: 35px;
-}
+}*/
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
@@ -487,6 +487,17 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.icon-md >span{
+    display: inline;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+  
 }
 
 .icon-lg {
@@ -757,7 +768,7 @@ h4 {
 }
 
 .white {
-  /*  color: #FFFFFF!important;*/
+    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
@@ -774,7 +785,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(35, 31, 32, 0.7);
+   background-color: rgba(35, 31, 32, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -804,12 +815,13 @@ h4 {
 }
 
 .tc-white {
-    color: #FFFFFF!important;
+    color: #FFFF!important;
 }
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
