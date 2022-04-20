@@ -297,11 +297,11 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
 }
-/*
-.keywords{
+
+.keyword{
     text-align: center;
     margin-bottom: 35px;
-}*/
+}
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
@@ -785,7 +785,7 @@ h4 {
 }
 
 .black-background {
-   background-color: rgba(35, 31, 32, 0.7);
+   background-color: rgba(209, 24, 71, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
