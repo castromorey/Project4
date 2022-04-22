@@ -481,7 +481,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+    color: rgb(159, 14, 14);
     background: rgba(0, 0, 0, .3);
 }
 
@@ -853,7 +853,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: blue!important;
 }
 
 .ltc-atomic-tangerine:hover {
