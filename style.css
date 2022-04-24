@@ -481,7 +481,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: rgb(159, 14, 14);
+    color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -749,6 +749,10 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     /*color: #FFFFFF!important;*/
+    /*display: inline-flex;
+    margin-left: 47px;
+    flex-wrap: wrap;*/
+
 }
 
 h2 {
