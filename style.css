@@ -689,11 +689,6 @@ p,
     color: black!important
 }
 
-/*label, a{
-    font-family: "helvetica", sans-serif;
-    font-weight: 400;
-    color: rgb(196, 24, 24)!important
-}*/
 
 .col-sm-4{
   
@@ -748,10 +743,6 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-    /*color: #FFFFFF!important;*/
-    /*display: inline-flex;
-    margin-left: 47px;
-    flex-wrap: wrap;*/
 
 }
 
@@ -842,7 +833,6 @@ h4 {
     background: #F3976C;
     color: black!important;
     max-width: 166px;
-   /* margin-left: 150px;*/
 }
 
 .btn-atomic-tangerine:hover {
