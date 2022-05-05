@@ -6,7 +6,7 @@
 
 ### **Project-name:** Project-4
 
-### **Course:** Web Developer
+### **Course:** Web Developer OC
 
 ### **e-mail:** castromorey@gmail.com
 
